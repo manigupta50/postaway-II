@@ -1,0 +1,435 @@
+{"level":"info","message":"Sat Nov 18 2023 05:47:04 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:48:44 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:49:41 GMT+0530 (India Standard Time) \n req URL: /api/user/users \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:51:29 GMT+0530 (India Standard Time) \n req URL: /api/user/users \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:53:42 GMT+0530 (India Standard Time) \n req URL: /api/user/users \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:53:56 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:54:12 GMT+0530 (India Standard Time) \n req URL: /api/user/users \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:54:24 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:54:29 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 05:54:35 GMT+0530 (India Standard Time) \n req URL: /api/user/users \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:03:47 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:06:41 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:07:44 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:09:28 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:10:12 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:10:45 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:11:01 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:11:07 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:11:29 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:12:18 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:12:47 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:15:47 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:15:51 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:16:08 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:31:50 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:31:53 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:32:10 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:32:17 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:36:00 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:36:03 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:36:16 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:36:49 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:36:52 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:37:05 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:37:58 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:38:01 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:38:14 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:39:02 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:39:05 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:39:19 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":\"\",\"likes\":\"\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:39:24 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:40:07 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":[],\"likes\":[]}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:40:10 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:42:38 GMT+0530 (India Standard Time) \n req URL: /api/post/users/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:42:55 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:44:05 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:44:10 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:44:13 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:44:31 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":[],\"likes\":[]}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:44:35 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:44:44 GMT+0530 (India Standard Time) \n req URL: /api/post/users/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:45:42 GMT+0530 (India Standard Time) \n req URL: /api/post/2 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:50:55 GMT+0530 (India Standard Time) \n req URL: /api/post/2 \n reqBody: {\"heading\":\"text 2\",\"description\":\"something 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:51:39 GMT+0530 (India Standard Time) \n req URL: /api/post/2 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:52:42 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:52:45 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:52:58 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\",\"comments\":[],\"likes\":[]}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:53:03 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:53:10 GMT+0530 (India Standard Time) \n req URL: /api/post/users/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:53:16 GMT+0530 (India Standard Time) \n req URL: /api/post/2 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:53:21 GMT+0530 (India Standard Time) \n req URL: /api/post/2 \n reqBody: {\"heading\":\"text 2\",\"description\":\"something 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:53:25 GMT+0530 (India Standard Time) \n req URL: /api/post/2 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:55:39 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:55:43 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:57:13 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:57:17 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:58:04 GMT+0530 (India Standard Time) \n req URL: /api/post/2 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 06:58:19 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:00:28 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:00:57 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:01:03 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:02:26 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:02:30 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:03:21 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:03:53 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:03:56 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:04:04 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:12:00 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:12:03 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:12:07 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:12:16 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:16:02 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:16:07 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:17:01 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:17:11 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:17:38 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:18:44 GMT+0530 (India Standard Time) \n req URL: /api/like/1/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:18:50 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:19:31 GMT+0530 (India Standard Time) \n req URL: /api/like/2 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:23:48 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:24:43 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:26:09 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:35:36 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:35:42 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:35:46 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:35:49 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:35:52 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:36:27 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:37:26 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:38:30 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:39:01 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:39:33 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:40:06 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"text\":\"qwr3rt\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:40:14 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:42:00 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:42:18 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"text\":\"new comment\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:42:21 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:42:32 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"text\":\"new comment\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:42:35 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:45:38 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:46:44 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:49:07 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:55:57 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:56:03 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:56:06 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:56:10 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 07:57:37 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:07:43 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:09:03 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:10:39 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:10:58 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:11:13 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:11:19 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:11:22 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:11:26 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:11:38 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:12:02 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:13:43 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:15:39 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:15:42 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:18:32 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":\"1\",\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:28:59 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:29:03 GMT+0530 (India Standard Time) \n req URL: /api/user/register \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:29:05 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:29:07 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:29:36 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:29:44 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:29:58 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:32:11 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:32:34 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1,\"text\":\"new comment 2\"}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:32:37 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:33:41 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:35:16 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:35:26 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:36:17 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:36:42 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:36:47 GMT+0530 (India Standard Time) \n req URL: /api/comment/1 \n reqBody: {\"id\":1}","service":"user-service"}
+{"level":"info","message":"Sat Nov 18 2023 08:36:50 GMT+0530 (India Standard Time) \n req URL: /api/post \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 15:34:34 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 15:35:39 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 15:37:33 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 15:44:06 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 16:06:15 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 16:12:06 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 16:15:49 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 16:37:12 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 16:40:36 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 16:41:08 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 18:01:06 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 18:12:26 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Sun Nov 19 2023 18:17:09 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:33:00 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:34:11 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:41:40 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:42:13 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:43:13 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:44:51 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:49:33 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:50:26 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:51:25 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:52:12 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 03:52:33 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:05:50 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:06:38 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:10:52 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:12:31 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:14:22 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:16:45 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:19:40 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:20:07 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:20:41 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:22:34 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:23:14 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:23:59 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:24:14 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:24:31 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:31:41 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:36:03 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:36:19 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:36:23 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:45:05 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:45:15 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:47:01 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:47:15 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:47:21 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:47:41 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:49:22 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:50:28 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:51:35 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:58:04 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:59:06 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 04:59:15 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:01:21 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:02:56 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:06:20 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:07:16 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:07:32 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:07:44 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:07:57 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:09:12 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:10:49 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:13:00 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:13:40 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:14:08 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:14:41 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:14:48 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:15:29 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:16:27 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:16:33 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:16:38 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:16:45 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"mn@gmail.com\",\"password\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:17:00 GMT+0530 (India Standard Time) \n req URL: /api/user/update/password \n reqBody: {\"newPassword\":\"man@1234\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:17:09 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man@123\"}","service":"user-service"}
+{"level":"info","message":"Mon Nov 20 2023 05:17:14 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man@gmail.com\",\"password\":\"man@1234\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:12:21 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:12:28 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man1@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:15:29 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man2@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:23:45 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man4@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:25:15 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man4@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:40:34 GMT+0530 (India Standard Time) \n req URL: /api/user/signup \n reqBody: {\"name\":\"Man\",\"email\":\"man4@gmail.com\",\"password\":\"man123\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:43:57 GMT+0530 (India Standard Time) \n req URL: /api/user/login \n reqBody: {\"email\":\"man4@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:44:15 GMT+0530 (India Standard Time) \n req URL: /api/user/signin \n reqBody: {\"email\":\"man4@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 10:44:27 GMT+0530 (India Standard Time) \n req URL: /api/user/logout \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:19:25 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:19:40 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"man4@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:19:45 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:25:07 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:27:54 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:30:47 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:34:02 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:35:08 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:35:21 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"man4@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:35:26 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:44:21 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:44:39 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:45:05 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:50:25 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:50:29 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"man4@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:50:32 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:52:54 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:53:16 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:57:40 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:58:21 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:59:18 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:59:27 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 13:59:42 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:00:01 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:00:42 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:01:08 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:01:59 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:03:02 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:04:05 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:05:54 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:05:57 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"man4@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:06:01 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:06:07 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum desc\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:06:35 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:06:41 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:07:05 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:11:04 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:11:19 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:11:29 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:12:16 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:14:39 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:17:22 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:17:41 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:18:23 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:19:14 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dum\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:19:20 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:20:44 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:32:56 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:33:00 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"man4@gmail.com\",\"password\":\"man123\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:34:42 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:35:40 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Tue Nov 21 2023 14:36:34 GMT+0530 (India Standard Time) \n req URL: /api/posts \n reqBody: {\"heading\":\"dummer\",\"description\":\"dum\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 19:48:23 GMT+0530 (India Standard Time) \n req URL: /api/users/signup \n reqBody: {\"name\":\"Gaurav Tripathi\",\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 19:48:36 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 19:48:45 GMT+0530 (India Standard Time) \n req URL: /api/users/logout \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 19:48:51 GMT+0530 (India Standard Time) \n req URL: /api/users/logout-all-devices \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 19:56:52 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 19:57:37 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 19:59:17 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:00:48 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:04:51 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:18:10 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:18:31 GMT+0530 (India Standard Time) \n req URL: /api/users/logout \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:27:39 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:27:46 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:27:53 GMT+0530 (India Standard Time) \n req URL: /api/users/logout-all-devices \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:31:14 GMT+0530 (India Standard Time) \n req URL: /api/users/logout-all-devices \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:32:41 GMT+0530 (India Standard Time) \n req URL: /api/users/get-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:32:47 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:32:54 GMT+0530 (India Standard Time) \n req URL: /api/users/get-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:38:36 GMT+0530 (India Standard Time) \n req URL: /api/users/get-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:39:13 GMT+0530 (India Standard Time) \n req URL: /api/users/get-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:39:43 GMT+0530 (India Standard Time) \n req URL: /api/users/get-all-details \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:40:15 GMT+0530 (India Standard Time) \n req URL: /api/users/get-all-details \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:40:54 GMT+0530 (India Standard Time) \n req URL: /api/users/get-all-details \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:41:53 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:46:20 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:46:36 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:51:33 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:51:38 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:51:42 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:54:26 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:55:44 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:56:11 GMT+0530 (India Standard Time) \n req URL: /api/users/update-details/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 20:56:43 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:07:55 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:07:59 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:08:54 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:20:44 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:21:06 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:38:52 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:38:57 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:39:00 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:43:47 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:46:28 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:47:19 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:48:50 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:52:27 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:53:36 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:56:35 GMT+0530 (India Standard Time) \n req URL: /api/posts/655f7c8884a48c9253ca786c \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:56:47 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:56:51 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 21:56:55 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:00:49 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:01:39 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:02:04 GMT+0530 (India Standard Time) \n req URL: /api/posts/ \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:02:26 GMT+0530 (India Standard Time) \n req URL: /api/posts/all \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:02:58 GMT+0530 (India Standard Time) \n req URL: /api/posts/655f7b6a2803e2adc4df4128 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:03:22 GMT+0530 (India Standard Time) \n req URL: /api/posts/655f7b6a2803e2adc4df4128 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:04:04 GMT+0530 (India Standard Time) \n req URL: /api/posts/655f7b6a2803e2adc4df4128 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:04:37 GMT+0530 (India Standard Time) \n req URL: /api/posts/655f7b6a2803e2adc4df4128 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:04:51 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:05:40 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:06:58 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:08:20 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:10:06 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:11:35 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:12:22 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:12:26 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:12:30 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:13:31 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:16:18 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:55:10 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:55:15 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:55:20 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:57:08 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 22:57:53 GMT+0530 (India Standard Time) \n req URL: /api/posts/651e78c8dd1ca36f926ea0fa \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:02:48 GMT+0530 (India Standard Time) \n req URL: /api/posts/655f7c4384a48c9253ca786a \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:03:55 GMT+0530 (India Standard Time) \n req URL: /api/comments/651e78c8dd1ca36f926ea0fa \n reqBody: {\"content\":\"This is a nice post\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:05:17 GMT+0530 (India Standard Time) \n req URL: /api/comments/651e78c8dd1ca36f926ea0fa \n reqBody: {\"content\":\"This is a nice post\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:06:28 GMT+0530 (India Standard Time) \n req URL: /api/comments/651e78c8dd1ca36f926ea0fa \n reqBody: {\"content\":\"This is a nice post\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:10:07 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f7c4384a48c9253ca786a \n reqBody: {\"content\":\"This is a nice post\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:13:56 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f7c4384a48c9253ca786a \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:14:00 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:14:03 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f7c4384a48c9253ca786a \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:17:08 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f7c4384a48c9253ca786a \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:17:31 GMT+0530 (India Standard Time) \n req URL: /api/comments/651e800f87b2295b19e06c46 \n reqBody: {\"content\":\"What is your name\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:19:17 GMT+0530 (India Standard Time) \n req URL: /api/comments/651e800f87b2295b19e06c46 \n reqBody: {\"content\":\"What is your name\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:19:51 GMT+0530 (India Standard Time) \n req URL: /api/comments/651e800f87b2295b19e06c46 \n reqBody: {\"content\":\"What is your name\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:20:17 GMT+0530 (India Standard Time) \n req URL: /api/comments/651e800f87b2295b19e06c46 \n reqBody: {\"content\":\"What is your name\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:20:38 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f8e779485f14684384627 \n reqBody: {\"content\":\"What is your name\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:20:55 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f8e779485f14684384627 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:21:58 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f8e779485f14684384627 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:22:50 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f7c4384a48c9253ca786a \n reqBody: {\"content\":\"This is a nice post\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:23:01 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f9172fe279597a0724f42 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:23:36 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f7c4384a48c9253ca786a \n reqBody: {\"content\":\"This is a nice post\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:23:46 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f91a01cdc54d971ab7b16 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:24:27 GMT+0530 (India Standard Time) \n req URL: /api/likes/651e800f87b2295b19e06c46 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:26:21 GMT+0530 (India Standard Time) \n req URL: /api/comments/655f7c4384a48c9253ca786a \n reqBody: {\"content\":\"This is a nice post\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:26:42 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:30:29 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:30:33 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:30:46 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:33:12 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:36:16 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:37:21 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:37:26 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:40:52 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:41:47 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:42:27 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:42:45 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:42:52 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:42:53 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:43:07 GMT+0530 (India Standard Time) \n req URL: /api/likes/toggle/655f92457eaa06a796bbc219?type=Comment \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:44:38 GMT+0530 (India Standard Time) \n req URL: /api/likes/655f963321313323e0d15e0e \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:46:43 GMT+0530 (India Standard Time) \n req URL: /api/likes/655f963321313323e0d15e0e \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:46:47 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:46:51 GMT+0530 (India Standard Time) \n req URL: /api/likes/655f963321313323e0d15e0e \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:48:27 GMT+0530 (India Standard Time) \n req URL: /api/likes/655f963321313323e0d15e0e \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:49:37 GMT+0530 (India Standard Time) \n req URL: /api/likes/655f92457eaa06a796bbc219 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:52:17 GMT+0530 (India Standard Time) \n req URL: /api/likes/655f92457eaa06a796bbc219 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:54:10 GMT+0530 (India Standard Time) \n req URL: /api/friends/get-friends/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:56:17 GMT+0530 (India Standard Time) \n req URL: /api/friends/get-friends/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:56:40 GMT+0530 (India Standard Time) \n req URL: /api/friends/get-friends/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:57:04 GMT+0530 (India Standard Time) \n req URL: /api/friends/get-pending-requests \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:57:09 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/651e5b58c2cdae5851e17067 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:57:28 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/651e5b58c2cdae5851e17067 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Thu Nov 23 2023 23:57:35 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/651e5b58c2cdae5851e17067 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:01:07 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:02:56 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:03:00 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:03:03 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:04:29 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655f5f30ae9479dad50699f0 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:08:09 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:08:46 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:08:53 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:08:56 GMT+0530 (India Standard Time) \n req URL: /api/friends/toggle-friendship/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:12:39 GMT+0530 (India Standard Time) \n req URL: /api/friends/response-to-request/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:13:01 GMT+0530 (India Standard Time) \n req URL: /api/friends/response-to-request/655c3bcae8a3ffad47857c63 \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:13:45 GMT+0530 (India Standard Time) \n req URL: /api/otp/send \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:14:26 GMT+0530 (India Standard Time) \n req URL: /api/otp/send \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:15:23 GMT+0530 (India Standard Time) \n req URL: /api/users/logout \n reqBody: {}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:15:51 GMT+0530 (India Standard Time) \n req URL: /api/users/signup \n reqBody: {\"name\":\"Gaurav Tripathi\",\"email\":\"manigupta012@gmail.com\",\"password\":\"Codingninjas1212\",\"gender\":\"Male\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:16:21 GMT+0530 (India Standard Time) \n req URL: /api/users/signin \n reqBody: {\"email\":\"manigupta012@gmail.com\",\"password\":\"Codingninjas1212\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:16:54 GMT+0530 (India Standard Time) \n req URL: /api/otp/send \n reqBody: {\"email\":\"gaurav.tripathi1010@codingninjas.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:21:11 GMT+0530 (India Standard Time) \n req URL: /api/otp/send \n reqBody: {\"email\":\"manigupta012@gmail.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:22:05 GMT+0530 (India Standard Time) \n req URL: /api/otp/send \n reqBody: {\"email\":\"manigupta012@gmail.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:23:37 GMT+0530 (India Standard Time) \n req URL: /api/otp/verify \n reqBody: {\"otp\":7979432,\"email\":\"manigupta012@gmail.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:23:54 GMT+0530 (India Standard Time) \n req URL: /api/otp/verify \n reqBody: {\"otp\":7979432,\"email\":\"manigupta012@gmail.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:24:54 GMT+0530 (India Standard Time) \n req URL: /api/otp/verify \n reqBody: {\"otp\":7979432,\"email\":\"manigupta012@gmail.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:25:46 GMT+0530 (India Standard Time) \n req URL: /api/otp/verify \n reqBody: {\"otp\":7979432,\"email\":\"manigupta012@gmail.com\"}","service":"user-service"}
+{"level":"info","message":"Fri Nov 24 2023 00:25:57 GMT+0530 (India Standard Time) \n req URL: /api/otp/verify \n reqBody: {\"otp\":797943,\"email\":\"manigupta012@gmail.com\"}","service":"user-service"}
